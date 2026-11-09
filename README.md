@@ -1,16 +1,24 @@
-### Olá! Eu sou o Pedro Henrique 👋
+# Pedro Henrique
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-batista-174b682aa/)
+**Desenvolvedor | Salesforce, IA e automações | DevOps e observabilidade**
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=paccass&theme=dark&show_icons=true)
+Trabalho com desenvolvimento na plataforma Salesforce, integrações e automação de processos. Minha experiência também inclui infraestrutura e observabilidade em ambientes com Google Cloud e Kubernetes. Em projetos próprios, desenvolvo aplicações web e desktop e exploro como agentes de IA podem apoiar fluxos de trabalho.
 
-### Tecnologias que ando aprendendo
+## Experiência e tecnologias
 
-<div style= "display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Desenvolvimento Salesforce** | Apex, SOQL, Salesforce Flow, Lightning Web Components (LWC) e OmniStudio |
+| **IA e automação** | Agentes de IA, integrações via API, n8n e Microsoft Power Automate |
+| **DevOps e observabilidade** | Google Cloud (GCP), Kubernetes, Grafana e stack ELK (Elasticsearch, Logstash e Kibana) |
+| **Dados** | Consultas em Oracle SQL |
+
+## Projetos
+
+- **[MainsAgents](https://github.com/devpedrohbs/MainsAgents)** — workspace desktop para criar e operar agentes de IA especializados. Reúne sessões, tarefas e um canvas visual, com integração ao Codex e ao Claude Code. Desenvolvido com TypeScript, React e Electron.
+- **[PlayZenha](https://github.com/devpedrohbs/PlayZenha)** — aplicação web de jogos sociais para jogar em grupo. Usa React e TypeScript na interface, com uma API em NestJS e PostgreSQL para autenticação, catálogo e controle de acesso.
+- **RunLab** — projeto de aplicativo voltado à corrida.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-batista-174b682aa/)
