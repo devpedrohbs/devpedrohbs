@@ -1,6 +1,6 @@
 # Pedro Henrique
 
-**Desenvolvedor | Salesforce, IA e automações | DevOps e observabilidade**
+**IA e automações | Salesforce | DevOps e observabilidade**
 
 Trabalho com desenvolvimento na plataforma Salesforce, integrações e automação de processos. Minha experiência também inclui infraestrutura e observabilidade em ambientes com Google Cloud e Kubernetes. Em projetos próprios, desenvolvo aplicações web e desktop e exploro como agentes de IA podem apoiar fluxos de trabalho.
 
