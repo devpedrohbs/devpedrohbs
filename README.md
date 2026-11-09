@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-batista-174b682aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pedrohmogi18@gmail.com"><img src="https://img.shields.io/badge/E--mail-5CD6C9?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-batista-174b682aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/eupacass/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @eupacass"></a>
   <a href="https://github.com/devpedrohbs/MainsAgents/releases/tag/v0.3.42"><img src="https://img.shields.io/badge/MainsAgents-v0.3.42-A78BFA?style=for-the-badge&logo=electron&logoColor=white" alt="MainsAgents v0.3.42"></a>
 </p>
 
